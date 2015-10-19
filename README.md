@@ -9,3 +9,4 @@ This project was a course project for my Computer Networking course. The goal of
   * Type the desired message into the "Message" box.
   * Enter the receiving IP address into the "Send to" box.
   * Click "Send".
+* Received messages automatically appear in the "Incoming Message" box, with the sending IP address appearing in the "Sent from" box.
