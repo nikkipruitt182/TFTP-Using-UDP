@@ -16,4 +16,8 @@ This project was a course project for my Computer Networking course. The goal of
 
 ## Samples
 * Send a message without an IP address.
-    
+![alt text] (https://github.com/nikkipruitt182/TFTP-Using-UDP/blob/master/ReadMe%20Images/MessageSentToLocal.png "Send a message to the default receiver")
+  * The sent message file:
+![alt text] (https://github.com/nikkipruitt182/TFTP-Using-UDP/blob/master/ReadMe%20Images/DefaultSentMessageFile.png, "Sent Message File 1")
+  * The received message file:
+![alt text] (https://github.com/nikkipruitt182/TFTP-Using-UDP/blob/master/ReadMe%20Images/DefaultReceivedMessageFile.png "Received Message File 1")
