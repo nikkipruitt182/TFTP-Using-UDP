@@ -10,3 +10,5 @@ This project was a course project for my Computer Networking course. The goal of
   * Enter the receiving IP address into the "Send to" box.
   * Click "Send".
 * Received messages automatically appear in the "Incoming Message" box, with the sending IP address appearing in the "Sent from" box.
+
+![alt text] (https://github.com/nikkipruitt182/TFTP-Using-UDP/blob/master/ReadMe%20Images/GUIInterface.png "User Interface")
