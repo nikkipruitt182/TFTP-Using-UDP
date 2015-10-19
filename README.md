@@ -6,4 +6,6 @@ This project was a course project for my Computer Networking course. The goal of
 
 ## Instructions
 *To send a message:
---Type the 
+  -Type the desired message into the "Message" box.
+  -Enter the receiving IP address into the "Send to" box.
+  -Click "Send".
