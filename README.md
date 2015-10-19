@@ -8,7 +8,7 @@ This project was a course project for my Computer Networking course. The goal of
 * To send a message:
   * Type the desired message into the "Message" box.
   * Enter the receiving IP address into the "Send to" box.
-    *If no IP address is entered, it automatically sends the message to the localhost.*
+    * *If no IP address is entered, it automatically sends the message to the localhost.*
   * Click "Send".
 * Received messages automatically appear in the "Incoming Message" box, with the sending IP address appearing in the "Sent from" box.
 
