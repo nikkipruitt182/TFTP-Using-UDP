@@ -13,3 +13,7 @@ This project was a course project for my Computer Networking course. The goal of
 * Received messages automatically appear in the "Incoming Message" box, with the sending IP address appearing in the "Sent from" box.
 
 ![alt text] (https://github.com/nikkipruitt182/TFTP-Using-UDP/blob/master/ReadMe%20Images/GUIInterface.png "User Interface")
+
+## Samples
+* Send a message without an IP address.
+    
